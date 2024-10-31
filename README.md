@@ -2,4 +2,4 @@ Thiago é um verdadeiro aventureiro dos jogos. Desde criança, ele explora mundo
 
 Link do jogo p5js: https://editor.p5js.org/Thiagohp/sketches/oYD6aYyjy
  
-![papagaio](https://media.tenor.com/lDP4QgUYoDkAAAAi/minecraft.gif)
+![zombie](https://media.tenor.com/lDP4QgUYoDkAAAAi/minecraft.gif)
